@@ -1,0 +1,16 @@
+C:\Users\Wingy Ace\Desktop\ФОС\DocBaseETL\console\bin\Debug\console.exe.config
+C:\Users\Wingy Ace\Desktop\ФОС\DocBaseETL\console\bin\Debug\console.exe
+C:\Users\Wingy Ace\Desktop\ФОС\DocBaseETL\console\bin\Debug\console.pdb
+C:\Users\Wingy Ace\Desktop\ФОС\DocBaseETL\console\bin\Debug\ETL.dll
+C:\Users\Wingy Ace\Desktop\ФОС\DocBaseETL\console\bin\Debug\ETL.pdb
+C:\Users\Wingy Ace\Desktop\ФОС\DocBaseETL\console\obj\Debug\console.csprojResolveAssemblyReference.cache
+C:\Users\Wingy Ace\Desktop\ФОС\DocBaseETL\console\obj\Debug\console.exe
+C:\Users\Wingy Ace\Desktop\ФОС\DocBaseETL\console\obj\Debug\console.pdb
+C:\Users\Wingy Ace\Desktop\ФОС\sss\console\bin\Debug\main.exe.config
+C:\Users\Wingy Ace\Desktop\ФОС\sss\console\bin\Debug\main.exe
+C:\Users\Wingy Ace\Desktop\ФОС\sss\console\bin\Debug\main.pdb
+C:\Users\Wingy Ace\Desktop\ФОС\sss\console\bin\Debug\ETL.dll
+C:\Users\Wingy Ace\Desktop\ФОС\sss\console\bin\Debug\ETL.pdb
+C:\Users\Wingy Ace\Desktop\ФОС\sss\console\obj\Debug\console.csprojResolveAssemblyReference.cache
+C:\Users\Wingy Ace\Desktop\ФОС\sss\console\obj\Debug\main.exe
+C:\Users\Wingy Ace\Desktop\ФОС\sss\console\obj\Debug\main.pdb

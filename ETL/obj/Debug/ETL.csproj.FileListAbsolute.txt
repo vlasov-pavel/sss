@@ -1,0 +1,8 @@
+C:\Users\Wingy Ace\Desktop\ФОС\DocBaseETL\ETL\bin\Debug\ETL.dll
+C:\Users\Wingy Ace\Desktop\ФОС\DocBaseETL\ETL\bin\Debug\ETL.pdb
+C:\Users\Wingy Ace\Desktop\ФОС\DocBaseETL\ETL\obj\Debug\ETL.dll
+C:\Users\Wingy Ace\Desktop\ФОС\DocBaseETL\ETL\obj\Debug\ETL.pdb
+C:\Users\Wingy Ace\Desktop\ФОС\sss\ETL\bin\Debug\ETL.dll
+C:\Users\Wingy Ace\Desktop\ФОС\sss\ETL\bin\Debug\ETL.pdb
+C:\Users\Wingy Ace\Desktop\ФОС\sss\ETL\obj\Debug\ETL.dll
+C:\Users\Wingy Ace\Desktop\ФОС\sss\ETL\obj\Debug\ETL.pdb

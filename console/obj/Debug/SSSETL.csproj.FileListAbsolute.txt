@@ -1,0 +1,11 @@
+C:\Users\Wingy Ace\Desktop\ФОС\DocBaseETL\console\bin\Debug\sssetl.exe.config
+C:\Users\Wingy Ace\Desktop\ФОС\DocBaseETL\console\bin\Debug\sssetl.exe
+C:\Users\Wingy Ace\Desktop\ФОС\DocBaseETL\console\bin\Debug\sssetl.pdb
+C:\Users\Wingy Ace\Desktop\ФОС\DocBaseETL\console\bin\Debug\ETL.dll
+C:\Users\Wingy Ace\Desktop\ФОС\DocBaseETL\console\bin\Debug\ETL.pdb
+C:\Users\Wingy Ace\Desktop\ФОС\DocBaseETL\console\obj\Debug\SSSETL.csprojResolveAssemblyReference.cache
+C:\Users\Wingy Ace\Desktop\ФОС\DocBaseETL\console\obj\Debug\sssetl.exe
+C:\Users\Wingy Ace\Desktop\ФОС\DocBaseETL\console\obj\Debug\sssetl.pdb
+C:\Users\Wingy Ace\Desktop\ФОС\sss\console\bin\Debug\sssetl.exe.config
+C:\Users\Wingy Ace\Desktop\ФОС\sss\console\obj\Debug\sssetl.exe
+C:\Users\Wingy Ace\Desktop\ФОС\sss\console\obj\Debug\sssetl.pdb
