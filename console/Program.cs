@@ -14,27 +14,30 @@ namespace SSSETL
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Data exchange is running ...");
+            ILog log = new FileLog();
+            log.Write("start import");
 
             string source  = ConfigurationManager.AppSettings["source"];;
             string target  = ConfigurationManager.ConnectionStrings["target"].ConnectionString;
             string version = ConfigurationManager.AppSettings["version"];
 
+            Stopwatch timer = null;
             try
             {
-                Stopwatch timer = Stopwatch.StartNew();
+                timer = Stopwatch.StartNew();
                 DoWork(source, target, version);
-                timer.Stop();
-                Console.WriteLine("Data exchange has been done successfully.");
-                Console.WriteLine(string.Format("Time used: {0} seconds.",
-                    TimeSpan.FromMilliseconds(timer.ElapsedMilliseconds).TotalSeconds));
             }
             catch (Exception ex)
             {
-                Console.WriteLine(ex.Message + Environment.NewLine + ex.StackTrace);
+                log.Write(ex);
             }
-            Console.WriteLine("Press any key to exit.");
-            Console.ReadKey(false);
+            finally
+            {
+                if (timer != null) timer.Stop();
+                log.Write(string.Format("time used = {0} seconds",
+                    TimeSpan.FromMilliseconds(timer.ElapsedMilliseconds).TotalSeconds));
+                log.Write("stop import");
+            }
         }
         private static void DoWork(string source, string target, string version)
         {

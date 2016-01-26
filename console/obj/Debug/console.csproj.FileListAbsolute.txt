@@ -14,3 +14,4 @@ C:\Users\Wingy Ace\Desktop\ФОС\sss\console\bin\Debug\ETL.pdb
 C:\Users\Wingy Ace\Desktop\ФОС\sss\console\obj\Debug\console.csprojResolveAssemblyReference.cache
 C:\Users\Wingy Ace\Desktop\ФОС\sss\console\obj\Debug\main.exe
 C:\Users\Wingy Ace\Desktop\ФОС\sss\console\obj\Debug\main.pdb
+\\dots.detoc.local\main-root$\Desktops-MyDocs\d_zhichkin\Desktop\zhichkin\sss\console\bin\Debug\main.exe.config

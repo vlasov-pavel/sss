@@ -37,6 +37,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Adapters\Catalog_Files_Adapter.cs" />
+    <Compile Include="Helpers\FileLog.cs" />
+    <Compile Include="Helpers\ILog.cs" />
     <Compile Include="Translators\Catalog_Files_Translator.cs" />
     <Compile Include="ExchangeSession.cs" />
     <Compile Include="Adapters\IEntityAdapter.cs" />

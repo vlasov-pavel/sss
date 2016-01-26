@@ -8,6 +8,7 @@ namespace ETL
     public sealed class ExchangeSession
     {
         private int session_id = -1;
+        private readonly ILog log = new FileLog();
         private readonly SqlConnection connection;
         private const string CONST_OpenSessionProcedure = "Pstart_NewSea_BezDt";
         private const string CONST_CloseSessionProcedure = "Pclose_SeaBezDt";
@@ -81,7 +82,7 @@ namespace ETL
                     }
                 }
             }
-            Console.WriteLine(string.Format("Импорт завершён успешно: {0}", adapter.ToString()));
+            log.Write(string.Format("ok : {0}", adapter.ToString()));
         }
     }
 }

@@ -58,7 +58,6 @@ namespace ETL
             IComWrapper result = query.CallAndWrap("Выполнить");
             if ((bool)result.Call("Пустой"))
             {
-                Console.WriteLine("Справочник \"Внутренние документы\" - нет данных для выгрузки.");
                 result.Dispose();
                 query.Dispose();
                 return null;
